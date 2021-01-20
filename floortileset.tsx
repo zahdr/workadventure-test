@@ -4,4 +4,9 @@
   <property name="collides" type="bool" value="true"/>
  </properties>
  <image source="floortileset.png" width="256" height="256"/>
+ <tile id="37">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
 </tileset>
