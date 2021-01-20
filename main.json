@@ -47,14 +47,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"workadventure_123"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.fischerappelt.de"
+                 "value":"http:\/\/meet.fischerappelt.de\/workadventure_123"
                 }],
          "type":"tilelayer",
          "visible":true,
