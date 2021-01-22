@@ -264,17 +264,27 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":20,
-         "name":"floorLayer",
-         "objects":[],
+         "id":21,
+         "layers":[
+                {
+                 "draworder":"topdown",
+                 "id":20,
+                 "name":"floorLayer",
+                 "objects":[],
+                 "opacity":1,
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }],
+         "name":"player",
          "opacity":1,
-         "type":"objectgroup",
+         "type":"group",
          "visible":true,
          "x":0,
          "y":0
         }],
- "nextlayerid":21,
+ "nextlayerid":22,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
